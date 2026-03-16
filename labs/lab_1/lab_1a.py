@@ -11,6 +11,7 @@ def main():
     name = "Allen Sheng" # TODO: Insert your name between the double quotes
 
     print(f"{name}, Welcome to the CSS course!")
+    print ("I am 14 years old and I am in 9th grade.")
 
 if __name__ == "__main__":
     main()
